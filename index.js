@@ -19,13 +19,13 @@
 
 //1
 
-// const greet = (name) => {
-//     console.log (`Hello ${name}`);
-// }
+ const greet = (name) => {
+    console.log (`Hello ${name}`);
+}
 
-// greet("Moodhy!");
+greet("Moodhy!");
 
-    // const greet (name) => `Hello, ${name}`
+    const greet = (name) => `Hello, ${name}`
 
 //--------------------------------------
 
